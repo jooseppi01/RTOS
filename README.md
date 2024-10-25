@@ -22,7 +22,7 @@ käytettävissä olevat komennot:
 
 Esim. 
 
-- "r5000g5000y5000" -> määrätään sekvenssi eri värisiä ledejä ja niiden kesto millidekunteina.
+- "r5000g5000y5000" -> määrätään sekvenssi eri värisiä ledejä ja niiden kesto millisekunteina.
 - "d" -> debug printtaukset ON/OFF.
 - "000003" -> ajastinkeskeytys, sleeppaa aluksi annetun ajan, (tässä tapauksessa 3s) jonka jälkeen punainen ledi menee päälle 3s ajaksi. 
 
